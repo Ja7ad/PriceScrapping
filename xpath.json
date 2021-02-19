@@ -1,0 +1,6 @@
+{
+  "dollar": ".home-fs-row .dark-head.market-section-right .pointer:nth-child(1) th+ .nf",
+  "euro": ".home-fs-row .dark-head.market-section-right .pointer:nth-child(2) th+ .nf",
+  "gold": "#l-geram18 .info-price",
+  "coin": "#l-irec_future .info-price"
+}
